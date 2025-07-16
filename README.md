@@ -51,7 +51,7 @@ This project is open source and available under the MIT License.
 ## Contact
 For questions or support, please contact:
 
-- **Name:** Your Name  
-- **Email:** your.email@example.com  
-- **Website:** https://yourwebsite.com
+- **Name:** Touqeer Fazal
+- **Email:** touqeerfazal1992@gmail.com 
+
 
